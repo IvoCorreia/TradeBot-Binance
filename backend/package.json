@@ -1,0 +1,25 @@
+{
+  "name": "br.com.eticbrasil.tradebot-binance",
+  "version": "0.0.1",
+  "description": "Trade Bot for Binance on Android, iOS and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvoCorreia/TradeBot-Binance.git"
+  },
+  "keywords": [
+    "TradeBot",
+    "CryptoBot",
+    "BinanceBot",
+    "TradeBot-Binance"
+  ],
+  "author": "Ivo Correia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvoCorreia/TradeBot-Binance/issues"
+  },
+  "homepage": "https://github.com/IvoCorreia/TradeBot-Binance#readme"
+}
